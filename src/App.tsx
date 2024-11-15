@@ -1,5 +1,5 @@
 import React from 'react';
-import { VehicleSearch } from './vehicleSearch';
+import { VehicleSearch } from './components/vehicleSearch';
 
 function App() {
   return (
